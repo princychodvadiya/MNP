@@ -8,3 +8,5 @@ const mnpRouter = require('./mpn.routes');
 router.use('/mnp', mnpRouter)
 
 module.exports = router;
+
+
